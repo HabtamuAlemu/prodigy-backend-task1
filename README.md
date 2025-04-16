@@ -27,6 +27,5 @@
 | PUT    | /users/:id | Update a user        |
 | DELETE | /users/:id | Delete a user        |
 
-## LinkedIn Task Post  
 🔹 **Learned:** REST API design, error handling, validation  
 🔹 **Applied:** Node.js, Express, HTTP status codes  
